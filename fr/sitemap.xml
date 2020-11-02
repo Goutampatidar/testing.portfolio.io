@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://goutampatidar.github.io/testing.portfolio.io/fr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://goutampatidar.github.io/testing.portfolio.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://goutampatidar.github.io/testing.portfolio.io/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://goutampatidar.github.io/testing.portfolio.io/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://goutampatidar.github.io/testing.portfolio.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://goutampatidar.github.io/testing.portfolio.io/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://goutampatidar.github.io/testing.portfolio.io/fr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://goutampatidar.github.io/testing.portfolio.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://goutampatidar.github.io/testing.portfolio.io/fr/tags/"
+                />
+  </url>
+  
+</urlset>
